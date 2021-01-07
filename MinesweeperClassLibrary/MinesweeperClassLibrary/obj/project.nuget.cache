@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NH6enc2+uqIXFAEJH58cedOXOZZ+t946eFA0Kg1f4Old5T43RIoREm1nPr5CgM3QC5v2sxoO58Y+Mizfq4Y+sA==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\Minesweeper\\MinesweeperClassLibrary\\MinesweeperClassLibrary\\MinesweeperClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TJames42\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\TJames42\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
